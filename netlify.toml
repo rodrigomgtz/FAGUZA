@@ -1,0 +1,5 @@
+# FAGUZA — sitio estatico pre-compilado (sin paso de build).
+# Netlify solo publica el contenido del repo tal cual.
+[build]
+  publish = "."
+  command = ""
